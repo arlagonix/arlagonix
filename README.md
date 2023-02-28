@@ -11,6 +11,40 @@
 
 <table>
  
+ <tr>
+  <th colspan="999" align="left"><strong>FUNDAMENTALS</strong></td>
+ </tr>
+ 
+ <tr>
+  <td align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+   <br>
+   <strong>HTML</strong>
+  </td>
+  
+  <td align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <br>
+   <strong>CSS</strong>
+  </td>
+  
+  <td align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <br>
+   <strong>JavaScript</strong>
+  </td>
+  
+  <td align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   <br>
+   <strong>TypeScript</strong>
+  </td>
+ </tr>
+ 
+</table>
+
+<table>
+ 
  
  
  <tr>
