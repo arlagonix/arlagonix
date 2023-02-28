@@ -17,27 +17,35 @@
  
  <tr>
   <td align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <br>
-   <strong>HTML</strong>
+   <a href="https://www.w3schools.com/html/default.asp">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <br>
+    <strong>HTML</strong>
+   </a>
   </td>
   
   <td align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   <br>
-   <strong>CSS</strong>
+   <a href="https://www.w3schools.com/css/css_intro.asp">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <br>
+    <strong>CSS</strong>
+   </a>
   </td>
   
   <td align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <br>
-   <strong>JavaScript</strong>
+   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <br>
+    <strong>JavaScript</strong>
+   </a>
   </td>
   
   <td align="center">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-   <br>
-   <strong>TypeScript</strong>
+   <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <br>
+    <strong>TypeScript</strong>
+   </a>
   </td>
  </tr>
  
