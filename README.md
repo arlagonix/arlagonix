@@ -9,6 +9,8 @@
 
 <h2>Tech Stack</h2>
 
+Here are the technologies that I have used in at least one of the projects.
+
 <h3>Fundamentals</h3>
 
 <table>
