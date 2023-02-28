@@ -5,10 +5,6 @@
 
 - 👨‍💻 All of my projects are available at **[github.com/arlagonix/arlagonix.github.io](https://github.com/arlagonix/arlagonix.github.io)**
 
-- 💬 Ask me about **react, next, graphql, jest, perf, ux, photography**
-
-- 📫 How to reach me **agorbunov@nes.ru**
-
 - 📄 Know about my experiences **[linkedin.com/in/alex-gorbunov/](https://www.linkedin.com/in/alex-gorbunov/)**
 
 
