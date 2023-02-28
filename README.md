@@ -7,19 +7,21 @@
 
 - 📄 Know about my experiences **[linkedin.com/in/alex-gorbunov/](https://www.linkedin.com/in/alex-gorbunov/)**
 
-
- <tr>
-  <td colspan="3">Basic</td>
- </tr>
-
 <h2>Tech Stack</h2>
 
 <table>
+ 
+ 
+ 
  <tr>
   <th>Logo</th>
   <th>Name</th>
   <th>Description</th>
   <th></th>
+ </tr>
+ 
+ <tr>
+  <td colspan="999"><strong>FUNDAMENTALS</strong></td>
  </tr>
  
  <tr>
@@ -74,7 +76,7 @@
   <td><a href="https://www.typescriptlang.org/">Link</a></td>
  </tr>
  
- <tr><td colspan="4"><strong>TESTING</strong></td></tr>
+ <tr><td colspan="999"><strong>TESTING</strong></td></tr>
  
 </table>
 
