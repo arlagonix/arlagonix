@@ -9,11 +9,9 @@
 
 <h2>Tech Stack</h2>
 
+<h3>Fundamentals</h3>
+
 <table>
- 
- <tr>
-  <th colspan="999" align="left"><strong>FUNDAMENTALS</strong></td>
- </tr>
  
  <tr>
   <td align="center">
