@@ -31,13 +31,6 @@
 <details align="center">
  <summary><span align="center">Show</span></summary>
  
-
-
-
-
-
-
-
 <h4 align="center">Fundamentals</h4>
 
 <table align="center">
