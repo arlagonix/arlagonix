@@ -3,17 +3,21 @@
 
 <h2>About me</h2>
 
-- 👨‍💻 All of my projects are available at **[github.com/arlagonix/arlagonix.github.io](https://github.com/arlagonix/arlagonix.github.io)**
+- 💡 **My projects:** **[github.com/arlagonix/arlagonix.github.io](https://github.com/arlagonix/arlagonix.github.io)**
 
-- 📄 Know about my experiences **[linkedin.com/in/alex-gorbunov/](https://www.linkedin.com/in/alex-gorbunov/)**
+- 📣 **How to reach me:** **[linkedin.com/in/alex-gorbunov/](https://www.linkedin.com/in/alex-gorbunov/)**
 
 <h2>Tech Stack</h2>
 
-Here are the technologies that I have used in at least one of the projects.
+<p align="center">Here are the technologies that I have used in at least one of the projects.</p>
 
-<h3>Fundamentals</h3>
 
-<table>
+
+<table align="center">
+ <tr></tr>
+ 
+ <tr><th colspan="999" align="left">Fundamentals</th></tr>
+ 
  <tr>
   
   <td align="center">
@@ -45,11 +49,9 @@ Here are the technologies that I have used in at least one of the projects.
   </td>
   
  </tr>
-</table>
 
-<h3>UI frameworks, libraries</h3>
-
-<table>
+ <tr><th colspan="999" align="left">UI frameworks, libraries</th></tr>
+ 
  <tr>
   
   <td align="center">
@@ -67,11 +69,9 @@ Here are the technologies that I have used in at least one of the projects.
   </td>
 
  </tr>
-</table>
-
-<h3>Styling</h3>
-
-<table>
+ 
+ <tr><th colspan="999" align="left">Styling</th></tr>
+ 
  <tr>
   
   <td align="center">
@@ -103,11 +103,9 @@ Here are the technologies that I have used in at least one of the projects.
   </td>
 
  </tr>
-</table>
-
-<h3>Bundlers</h3>
-
-<table>
+ 
+ <tr><th colspan="999" align="left">Bundlers</th></tr>
+ 
  <tr>
   
   <td align="center">
@@ -139,11 +137,9 @@ Here are the technologies that I have used in at least one of the projects.
   </td>
   
  </tr>
-</table>
  
-<h3>Testing</h3>
-
-<table>
+ <tr><th colspan="999" align="left">Testing</th></tr>
+ 
  <tr>
   
   <td align="center">
