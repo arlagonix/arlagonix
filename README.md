@@ -26,7 +26,15 @@
 
 <h3 align="center">Tech Stack</h2>
 
-<p align="center">Here are the technologies that <br>I have used in at least one of the projects</p>
+<details align="center">
+ <summary><p align="center">Here are the technologies that <br>I have used in at least one of the projects</p></summary>
+ 
+
+
+
+
+
+
 
 <h4 align="center">Fundamentals</h4>
 
@@ -210,3 +218,5 @@
   
  </tr>
 </table>
+ 
+ </details>
