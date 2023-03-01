@@ -6,6 +6,10 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
+                
+            h1:hover {
+                color: green;   
+            }
 
             @keyframes mymove {
                 from {
