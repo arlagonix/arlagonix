@@ -1,22 +1,36 @@
 <h1 align="center">Hi, I'm Alexander Gorbunov</h1>
 <p align="center">Love Frontend, UI/UX</p>
 
-<h2>About me</h2>
+<h2 align="center">About me</h2>
 
-- 💡 **My projects:** **[github.com/arlagonix/arlagonix.github.io](https://github.com/arlagonix/arlagonix.github.io)**
+<table align="center">
+ 
+ <tr>
+  
+  <td align="center">
+   <a href="https://github.com/arlagonix/arlagonix.github.io"><div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <div><strong>My projects<br>(Github)</strong></div>
+   </div></a>
+  </td>
+  
+  <td align="center">
+   <a href="https://www.linkedin.com/in/alex-gorbunov/"><div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+     <div><strong>How to reach me<br>(LinkedIn)</strong></div>
+   </div></a>
+  </td>
+ 
+ </tr>
+</table>
 
-- 📣 **How to reach me:** **[linkedin.com/in/alex-gorbunov/](https://www.linkedin.com/in/alex-gorbunov/)**
-
-<h2>Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">Here are the technologies that I have used in at least one of the projects.</p>
 
-
+<h4 align="center">Fundamentals</h4>
 
 <table align="center">
- <tr></tr>
- 
- <tr><th colspan="999" align="left">Fundamentals</th></tr>
  
  <tr>
   
@@ -49,6 +63,9 @@
   </td>
   
  </tr>
+</table>
+
+<table align="center">
 
  <tr><th colspan="999" align="left">UI frameworks, libraries</th></tr>
  
@@ -67,6 +84,8 @@
     <div><strong>NextJS</strong></div>
    </a>
   </td>
+  
+  <td colspan="999"></td>
 
  </tr>
  
@@ -162,6 +181,30 @@
     <div><strong>Storybook</strong></div>
    </a>
   </td>
+  
+  <td colspan="999"></td>
+  
+ </tr>
+ 
+ <tr><th colspan="999" align="left">API requests, state management</th></tr>
+ 
+ <tr>
+  
+  <td align="center">
+   <a href="https://react-query-v3.tanstack.com/">
+    <img src="./assets/react-query.svg" width="40" height="40"/>
+    <div><strong>React Query</strong></div>
+   </a>
+  </td>
+  
+  <td align="center">
+   <a href="https://redux-toolkit.js.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+    <div><strong>Redux Toolkit</strong></div>
+   </a>
+  </td>
+  
+  <td colspan="999"></td>
   
  </tr>
 </table>
