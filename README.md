@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexander Gorbunov</h1>
 <p align="center">Love Frontend, UI/UX</p>
 
-<h2 align="center">About me</h2>
+<h3 align="center">About me</h2>
 
 <table align="center">
  
@@ -24,9 +24,9 @@
  </tr>
 </table>
 
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h2>
 
-<p align="center">Here are the technologies that I have used in at least one of the projects.</p>
+<p align="center">Here are the technologies that <br>I have used in at least one of the projects</p>
 
 <h4 align="center">Fundamentals</h4>
 
@@ -65,9 +65,9 @@
  </tr>
 </table>
 
-<table align="center">
+<h4 align="center">UI frameworks, libraries</h4>
 
- <tr><th colspan="999" align="left">UI frameworks, libraries</th></tr>
+<table align="center">
  
  <tr>
   
@@ -84,13 +84,13 @@
     <div><strong>NextJS</strong></div>
    </a>
   </td>
-  
-  <td colspan="999"></td>
 
  </tr>
- 
- <tr><th colspan="999" align="left">Styling</th></tr>
- 
+</table>
+
+<h4 align="center">Styling</h4>
+
+<table align="center">
  <tr>
   
   <td align="center">
@@ -122,9 +122,11 @@
   </td>
 
  </tr>
+</table>
  
- <tr><th colspan="999" align="left">Bundlers</th></tr>
+<h4 align="center">Bundlers</h4>
  
+<table align="center">
  <tr>
   
   <td align="center">
@@ -156,9 +158,11 @@
   </td>
   
  </tr>
- 
- <tr><th colspan="999" align="left">Testing</th></tr>
- 
+</table>
+
+<h4 align="center">Testing</h4>
+
+<table align="center">
  <tr>
   
   <td align="center">
@@ -182,12 +186,12 @@
    </a>
   </td>
   
-  <td colspan="999"></td>
-  
  </tr>
- 
- <tr><th colspan="999" align="left">API requests, state management</th></tr>
- 
+</table>
+
+<h4 align="center">API requests, state management</h4>
+
+<table align="center">
  <tr>
   
   <td align="center">
@@ -203,8 +207,6 @@
     <div><strong>Redux Toolkit</strong></div>
    </a>
   </td>
-  
-  <td colspan="999"></td>
   
  </tr>
 </table>
