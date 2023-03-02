@@ -59,6 +59,7 @@
         <strong><sup>JavaScript</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://www.typescriptlang.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" />
         <strong><sup>TypeScript</sup></strong>
@@ -104,6 +105,7 @@
         <strong><sup>SASS/SCSS</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://en.bem.info/">
         <img src="./assets/bem.svg" width="24" height="24" />
         <strong><sup>BEM</sup></strong>
