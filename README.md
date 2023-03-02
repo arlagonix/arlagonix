@@ -9,8 +9,9 @@
 <h2>👤 About me</h2>
 
 <table>
+    
  <tr>
-  <th align="left">My projects</th>
+  <th align="left">My projects (20+)</th>
   <td>
    <a href="https://github.com/arlagonix/arlagonix.github.io">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/>
@@ -18,6 +19,7 @@
    </a>
   </td>
  </tr>
+    
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
   <th align="left">How to reach me</th>
@@ -28,11 +30,13 @@
    </a>
   </td>
  </tr>
+    
 </table>
 
 <h2>🔨 Tools and languages</h2>
 
 <table>
+    
  <tr>
   <th align="left">Fundamentals</th>
   <td>
@@ -57,6 +61,7 @@
    </a>
   </td>
  </tr>
+    
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
   <th align="left">UI Frameworks, libraries</th>
@@ -72,6 +77,7 @@
    </a>
   </td>
  </tr>
+    
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
   <th align="left">Styling</th>
@@ -97,6 +103,7 @@
    </a>
   </td>
  </tr>
+    
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
   <th align="left">Bundlers</th>
@@ -122,6 +129,7 @@
    </a>
   </td>
  </tr>
+    
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
   <th align="left">Testing</th>
@@ -137,6 +145,7 @@
    </a>
   </td>
  </tr>
+    
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
   <th align="left">API requests, state management</th>
@@ -149,6 +158,64 @@
    <a href="https://redux-toolkit.js.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="24" height="24"/>
     <strong><sup>Redux Toolkit</sup></strong>
+   </a>
+  </td>
+ </tr>
+ 
+ <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+ <tr>
+  <th align="left">Instruments</th>
+  <td>
+   <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24"/>
+    <strong><sup>VS Code</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24"/>
+    <strong><sup>Git</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://figma.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24"/>
+    <strong><sup>Figma</sup></strong>
+   </a>
+  </td>
+ </tr>
+    
+ <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+ <tr>
+  <th align="left">Hosting, Infrastructure</th>
+  <td>
+   <a href="https://pages.github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/>
+    <strong><sup>Github Pages</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://github.com/features/actions">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/>
+    <strong><sup>Github Actions</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://vercel.com/">
+    <img src="./assets/vercel.svg" width="24" height="24"/>
+    <strong><sup>Vercel</sup></strong>
+   </a>
+  </td>
+ </tr>
+    
+ <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+ <tr>
+  <th align="left">Animation</th>
+  <td>
+   <a href="https://www.framer.com/motion/introduction/">
+    <img src="./assets/framer.svg" width="24" height="24"/>
+    <strong><sup>Framer Motion</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://github.com/features/actions">
+    <img src="./assets/animejs.ico" width="24" height="24"/>
+    <strong><sup>AnimeJS</sup></strong>
    </a>
   </td>
  </tr>
