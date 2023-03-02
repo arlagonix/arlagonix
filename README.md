@@ -3,55 +3,73 @@
 
 <h3 align="center">About me</h2>
 
-<table align="center">
+<table>
+ <tr>
+  <th align="right">My projects</th>
+  <td>
+   <a href="https://github.com/arlagonix/arlagonix.github.io"><div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/>
+    <strong><sup>Github</sup></strong>
+   </div></a>
+  </td>
+ </tr>
  
  <tr>
-  
-  <td align="center">
-   <a href="https://github.com/arlagonix/arlagonix.github.io"><div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    <div><strong>My projects<br>(Github)</strong></div>
-   </div></a>
-  </td>
-  
-  <td align="center">
+  <th align="right">How to reach me</th>
+  <td>
    <a href="https://www.linkedin.com/in/alex-gorbunov/"><div>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-     <div><strong>How to reach me<br>(LinkedIn)</strong></div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24"/>
+     <strong><sup>LinkedIn</strong></sup>
    </div></a>
   </td>
- 
  </tr>
 </table>
 
-<h3 align="center">Tech Stack</h2>
+<h3>Tools and languages</h2>
 
-<p align="center">Here are the technologies that <br>I have used in at least one of the projects</p>
-
-<!-- <details align="center">
- <summary><span align="center">Show</span></summary> -->
+<table>
+ <tr>
+  <th>Fundamentals</th>
+  <td>
+   <a href="https://www.w3schools.com/html/default.asp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
+    <strong><sup>HTML</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://www.w3schools.com/css/css_intro.asp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
+    <strong><sup>CSS</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
+    <strong><sup>JavaScript</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/>
+    <strong><sup>TypeScript</sup></strong>
+   </a>
+  </td>
+ </tr>
  
-<h4 align="center">Fundamentals</h4>
+ <tr>
+  <th>UI Frameworks, Libraries</th>
+  <td>
+   <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24"/>
+    <strong><sup>ReactJS</sup></strong>
+   </a>
+   &nbsp;
+   <a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24"/>
+    <strong><sup>NextJS</sup></strong>
+   </a>
+  </td>
+ </tr>
+</table>
 
-<a href="https://www.w3schools.com/html/default.asp">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
- <strong><sup>HTML</sup></strong>
-</a> 
-&nbsp;
-<a href="https://www.w3schools.com/css/css_intro.asp">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
- <strong><sup>CSS</sup></strong>
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
- <strong><sup>JavaScript</sup></strong>
-</a>
-&nbsp;
-<a href="https://www.typescriptlang.org/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/>
- <strong><sup>TypeScript</sup></strong>
-</a>
+
 
 <table align="center">
  
