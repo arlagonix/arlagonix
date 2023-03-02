@@ -73,7 +73,7 @@
     <!-- Empty row that helps to make all rows in the table have the same bg color -->
   </tr>
   <tr>
-    <th align="left">Frontend frameworks, libraries</th>
+    <th align="left">Frontend frameworks, <br>libraries</th>
     <td>
       <a href="https://reactjs.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
@@ -175,7 +175,7 @@
     <!-- Empty row that helps to make all rows in the table have the same bg color -->
   </tr>
   <tr>
-    <th align="left">API requests, state management</th>
+    <th align="left">API requests, <br>state management</th>
     <td></td>
     <td>
       <a href="https://react-query-v3.tanstack.com/">
