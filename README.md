@@ -254,7 +254,6 @@
         <strong><sup>Framer Motion</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
-      <br>
       <a href="https://github.com/features/actions">
         <img src="./assets/animejs.ico" width="24" height="24" />
         <strong><sup>AnimeJS</sup></strong>
