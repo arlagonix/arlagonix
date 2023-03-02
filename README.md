@@ -66,7 +66,22 @@
       </a>
     </td>
     <td></td>
-    <td></td>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />
+        <strong><sup>Python</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://cplusplus.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
+        <strong><sup>C++</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="./assets/c.svg" width="24" height="24" />
+        <strong><sup>C</sup></strong>
+      </a>
+    </td>
   </tr>
 
   <tr>
