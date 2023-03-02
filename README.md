@@ -306,6 +306,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="24" height="24" />
         <strong><sup>Jira</sup></strong>
       </a>
+      <strong><sup>⸱</sup></strong>
+      <br>
+      <a href="https://www.npmjs.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" height="24" />
+        <strong><sup>NPM</sup></strong>
+      </a>
     </td>
     <td>
       <a href="https://reactrouter.com/en/main">
