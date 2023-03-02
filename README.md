@@ -224,7 +224,7 @@
     </td>
     <td>
       <a href="https://github.com/features/actions">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
+        <img src="./assets/github-actions.svg" width="24" height="24" />
         <strong><sup>Github Actions</sup></strong>
       </a>
     </td>
@@ -267,13 +267,13 @@
         <strong><sup>Github</sup></strong>
       </a>
     </td>
-    <td></td>
     <td>
       <a href="https://about.gitlab.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" height="24" />
         <strong><sup>Gitlab</sup></strong>
       </a>
     </td>
+    <td></td>
   </tr>
   
   <tr>
