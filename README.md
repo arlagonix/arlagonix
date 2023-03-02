@@ -5,7 +5,7 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32" height="32"> 
   Hi, I'm Alexander Gorbunov
 </h1>
-<p>I love to create frontend applications, draw prototypes in Figma, study UI/UX.</p>
+<p>Love to create frontend applications, draw prototypes in Figma, study UI/UX.</p>
 
 <h2>👤 About me</h2>
 
