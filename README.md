@@ -1,11 +1,6 @@
 <h1>👋 Hi, I'm Alexander Gorbunov</h1>
 <p>I love to create frontend applications, draw prototypes in Figma, study UI/UX.</p>
 
-<!-- <a href="https://storybook.js.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40"/>
-    <div><strong>Storybook</strong></div>
-   </a> -->
-
 <h2>👤 About me</h2>
 
 <table>
@@ -216,6 +211,22 @@
    <a href="https://github.com/features/actions">
     <img src="./assets/animejs.ico" width="24" height="24"/>
     <strong><sup>AnimeJS</sup></strong>
+   </a>
+  </td>
+ </tr>
+    
+ <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+ <tr>
+  <th align="left">Miscellaneous</th>
+  <td>
+   <a href="https://storybook.js.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="24" height="24"/>
+    <strong><sup>Storybook</sup></strong>
+   </a>
+   <strong><sup>⸱</sup></strong>
+   <a href="https://reactrouter.com/en/main">
+    <img src="./assets/react-router.svg" width="24" height="24"/>
+    <strong><sup>React Router</sup></strong>
    </a>
   </td>
  </tr>
