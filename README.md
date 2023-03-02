@@ -35,6 +35,22 @@
       </a>
     </td>
   </tr>
+  
+  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+  <tr>
+    <th align="left">Languages</th>
+    <td>
+      <span>
+        <img src="./assets/russia.png" width="24" height="24" />
+        <strong><sup>Russian</sup></strong>
+      </span>
+      <strong><sup>⸱</sup></strong>
+      <span>
+        <img src="./assets/united-kingdom.png" width="24" height="24" />
+        <strong><sup>English</sup></strong>
+      </span>
+    </td>
+  </tr>
 </table>
 
 <h2>🔨 Tools and languages</h2>
