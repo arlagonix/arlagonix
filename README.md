@@ -117,7 +117,12 @@
         <strong><sup>TailwindCSS</sup></strong>
       </a>  
     </td>
-    <td></td>
+    <td>
+      <a href="https://postcss.org/">
+        <img src="./assets/postcss.svg" width="24" height="24" />
+        <strong><sup>PostCSS</sup></strong>
+      </a>  
+    </td>
   </tr>
 
   <tr>
@@ -195,31 +200,6 @@
     <!-- Empty row that helps to make all rows in the table have the same bg color -->
   </tr>
   <tr>
-    <th align="left">Instruments</th>
-    <td>
-      <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" />
-        <strong><sup>VS Code</sup></strong>
-      </a>
-      <strong><sup>⸱</sup></strong>
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
-        <strong><sup>Git</sup></strong>
-      </a>
-      <strong><sup>⸱</sup></strong>
-      <a href="https://figma.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" />
-        <strong><sup>Figma</sup></strong>
-      </a>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <!-- Empty row that helps to make all rows in the table have the same bg color -->
-  </tr>
-  <tr>
     <th align="left">Hosting, Infrastructure</th>
     <td>
       <a href="https://pages.github.com/">
@@ -254,11 +234,56 @@
         <strong><sup>Framer Motion</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
-      <a href="https://github.com/features/actions">
+      <a href="https://animejs.com/">
         <img src="./assets/animejs.ico" width="24" height="24" />
         <strong><sup>AnimeJS</sup></strong>
       </a>
     </td>
+  </tr>
+  
+  <tr>
+    <!-- Empty row that helps to make all rows in the table have the same bg color -->
+  </tr>
+  <tr>
+    <th align="left">Code repositories</th>
+    <td>
+      <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
+        <strong><sup>Github</sup></strong>
+      </a>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://about.gitlab.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" height="24" />
+        <strong><sup>Gitlab</sup></strong>
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Empty row that helps to make all rows in the table have the same bg color -->
+  </tr>
+  <tr>
+    <th align="left">Instruments</th>
+    <td>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" />
+        <strong><sup>VS Code</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
+        <strong><sup>Git</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://figma.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" />
+        <strong><sup>Figma</sup></strong>
+      </a>
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -266,11 +291,31 @@
   </tr>
   <tr>
     <th align="left">Miscellaneous</th>
-    <td></td>
+    <td>
+      <a href="https://prettier.io/">
+        <img src="./assets/prettier.svg" width="24" height="24" />
+        <strong><sup>Prettier</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://www.atlassian.com/software/confluence">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="24" height="24" />
+        <strong><sup>Confluence</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://www.atlassian.com/software/jira">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="24" height="24" />
+        <strong><sup>Jira</sup></strong>
+      </a>
+    </td>
     <td>
       <a href="https://reactrouter.com/en/main">
         <img src="./assets/react-router.svg" width="24" height="24" />
         <strong><sup>React Router</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://eslint.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="24" height="24" />
+        <strong><sup>Eslint</sup></strong>
       </a>
     </td>
     <td>
