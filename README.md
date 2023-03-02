@@ -5,57 +5,66 @@
 
 <table>
     
- <tr>
+  <tr>
   <th align="left">My projects (20+)</th>
   <td>
-   <a href="https://github.com/arlagonix/arlagonix.github.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/>
-    <strong><sup>Github</sup></strong>
-   </a>
+    <a href="https://github.com/arlagonix/arlagonix.github.io">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/>
+      <strong><sup>Github</sup></strong>
+    </a>
   </td>
- </tr>
-    
- <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
- <tr>
+  </tr>
+
+  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+  <tr>
   <th align="left">How to reach me</th>
   <td>
-   <a href="https://www.linkedin.com/in/alex-gorbunov/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24"/>
-    <strong><sup>LinkedIn</strong></sup>
-   </a>
+    <a href="https://www.linkedin.com/in/alex-gorbunov/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24"/>
+      <strong><sup>LinkedIn</strong></sup>
+    </a>
   </td>
- </tr>
+  </tr>
     
 </table>
 
 <h2>🔨 Tools and languages</h2>
 
 <table>
+  
+  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+  <tr>
+    <th></th>
+    <th>Have much experience</th>
+    <th>Have some experience</th>
+    <th>Worked no more than several times</th>
+  </tr>
     
- <tr>
-  <th align="left">Fundamentals</th>
-  <td>
-   <a href="https://www.w3schools.com/html/default.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
-    <strong><sup>HTML</sup></strong>
-   </a>
-   <strong><sup>⸱</sup></strong>
-   <a href="https://www.w3schools.com/css/css_intro.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
-    <strong><sup>CSS</sup></strong>
-   </a>
-   <strong><sup>⸱</sup></strong>
-   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
-    <strong><sup>JavaScript</sup></strong>
-   </a>
-   <strong><sup>⸱</sup></strong>
-   <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/>
-    <strong><sup>TypeScript</sup></strong>
-   </a>
-  </td>
- </tr>
+  <tr>
+    <th align="left">Fundamentals</th>
+    <td>
+      <a href="https://www.w3schools.com/html/default.asp">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
+        <strong><sup>HTML</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://www.w3schools.com/css/css_intro.asp">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
+        <strong><sup>CSS</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
+        <strong><sup>JavaScript</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/>
+        <strong><sup>TypeScript</sup></strong>
+      </a>
+    </td>
+  </tr>
+ 
     
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
