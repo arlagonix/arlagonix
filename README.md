@@ -13,10 +13,19 @@
       </a>
     </td>
   </tr>
-
+  
+  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
   <tr>
-    <!-- Empty row that helps to make all rows in the table have the same bg color -->
+    <th align="left">Telegram channel</th>
+    <td>
+      <a href="https://t.me/ba_sa_materials">
+        <img src="./assets/telegram.svg" width="24" height="24" />
+        <strong><sup>Telegram</sup></strong>
+      </a>
+    </td>
   </tr>
+
+  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
   <tr>
     <th align="left">How to reach me</th>
     <td>
