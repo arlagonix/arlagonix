@@ -1,9 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,50:FBD786,100:f7797d&height=300&section=header&text=👋%20Hi,%20I%27m%20Alexander%20Gorbunov&fontSize=54&fontColor=444444&animation=fadeIn&fontAlignY=38&desc=I%20love%20to%20create%20frontend%20applications,%20draw%20prototypes%20in%20Figma,%20study%20UI/UX&descAlignY=55&descAlign=50" alt="Hi, I'm Alexander Gorbunov">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,50:FBD786,100:f7797d&height=300&section=header&text=👋%20Hi,%20I%27m%20Alexander%20Gorbunov&fontSize=54&fontColor=444444&animation=fadeIn&fontAlignY=38&desc=I%20love%20to%20create%20frontend%20applications,%20draw%20prototypes%20in%20Figma,%20study%20UI/UX&descAlignY=55&descAlign=50" alt="Hi, I'm Alexander Gorbunov"> -->
 
 
-<!-- <h1>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32" height="32"> Hi, I'm Alexander Gorbunov</h1>
-<p>I love to create frontend applications, draw prototypes in Figma, study UI/UX.</p> -->
+<h1> 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32" height="32"> 
+  Hi, I'm Alexander Gorbunov
+</h1>
+<p>I love to create frontend applications, draw prototypes in Figma, study UI/UX.</p>
 
 <h2>👤 About me</h2>
 
@@ -377,3 +379,4 @@
   </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,50:FBD786,100:f7797d&height=180&section=footer&animation=fadeIn" alt="Hi, I'm Alexander Gorbunov">
