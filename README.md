@@ -36,9 +36,9 @@
   </tr>
   <tr>
     <th></th>
-    <th>Have<br />much experience</th>
-    <th>Have<br />some experience</th>
-    <th>Have<br />little experience</th>
+    <th>Much experience</th>
+    <th>Some experience</th>
+    <th>Little experience</th>
   </tr>
 
   <tr>
@@ -142,6 +142,7 @@
         <strong><sup>Create React App</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://nextjs.org/docs/api-reference/create-next-app">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
         <strong><sup>Create Next App</sup></strong>
@@ -155,6 +156,7 @@
   </tr>
   <tr>
     <th align="left">Testing</th>
+    <td></td>
     <td>
       <a href="https://www.cypress.io/">
         <img src="./assets/cypress.svg" width="24" height="24" />
@@ -166,6 +168,7 @@
         <strong><sup>Vitest</sup></strong>
       </a>
     </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -173,12 +176,14 @@
   </tr>
   <tr>
     <th align="left">API requests, state management</th>
+    <td></td>
     <td>
       <a href="https://react-query-v3.tanstack.com/">
         <img src="./assets/react-query.svg" width="24" height="24" />
         <strong><sup>React Query</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+    </td>
+    <td>
       <a href="https://redux-toolkit.js.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="24" height="24" />
         <strong><sup>Redux Toolkit</sup></strong>
@@ -207,6 +212,8 @@
         <strong><sup>Figma</sup></strong>
       </a>
     </td>
+    <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -219,12 +226,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
         <strong><sup>Github Pages</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+    </td>
+    <td>
       <a href="https://github.com/features/actions">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
         <strong><sup>Github Actions</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+    </td>
+    <td>
       <a href="https://vercel.com/">
         <img src="./assets/vercel.svg" width="24" height="24" />
         <strong><sup>Vercel</sup></strong>
@@ -237,12 +246,15 @@
   </tr>
   <tr>
     <th align="left">Animation</th>
+    <td></td>
+    <td></td>
     <td>
       <a href="https://www.framer.com/motion/introduction/">
         <img src="./assets/framer.svg" width="24" height="24" />
         <strong><sup>Framer Motion</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://github.com/features/actions">
         <img src="./assets/animejs.ico" width="24" height="24" />
         <strong><sup>AnimeJS</sup></strong>
@@ -255,15 +267,17 @@
   </tr>
   <tr>
     <th align="left">Miscellaneous</th>
+    <td></td>
+    <td>
+      <a href="https://reactrouter.com/en/main">
+        <img src="./assets/react-router.svg" width="24" height="24" />
+        <strong><sup>React Router</sup></strong>
+      </a>
+    </td>
     <td>
       <a href="https://storybook.js.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="24" height="24" />
         <strong><sup>Storybook</sup></strong>
-      </a>
-      <strong><sup>⸱</sup></strong>
-      <a href="https://reactrouter.com/en/main">
-        <img src="./assets/react-router.svg" width="24" height="24" />
-        <strong><sup>React Router</sup></strong>
       </a>
     </td>
   </tr>
