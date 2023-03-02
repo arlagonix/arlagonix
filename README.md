@@ -28,10 +28,30 @@
 
 <p align="center">Here are the technologies that <br>I have used in at least one of the projects</p>
 
-<details align="center">
- <summary><span align="center">Show</span></summary>
+<!-- <details align="center">
+ <summary><span align="center">Show</span></summary> -->
  
 <h4 align="center">Fundamentals</h4>
+
+<a href="https://www.w3schools.com/html/default.asp">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
+ <strong><sup>HTML</sup></strong>
+</a> 
+&nbsp;
+<a href="https://www.w3schools.com/css/css_intro.asp">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
+ <strong><sup>CSS</sup></strong>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
+ <strong><sup>JavaScript</sup></strong>
+</a>
+&nbsp;
+<a href="https://www.typescriptlang.org/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/>
+ <strong><sup>TypeScript</sup></strong>
+</a>
 
 <table align="center">
  
@@ -39,29 +59,29 @@
   
   <td align="center">
    <a href="https://www.w3schools.com/html/default.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <div><strong>HTML</strong></div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24"/>
+    <div><strong><sup>HTML</sup></strong></div>
    </a>
   </td>
   
   <td align="center">
    <a href="https://www.w3schools.com/css/css_intro.asp">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <div><strong>CSS</strong></div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24"/>
+    <div><strong><sup>CSS</sup></strong></div>
    </a>
   </td>
   
   <td align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <div><strong>JavaScript</strong></div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24"/>
+    <strong><sup>JavaScript</sup></strong>
    </a>
   </td>
   
   <td align="center">
    <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-    <div><strong>TypeScript</strong></div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24"/>
+    <div><strong><sup>TypeScript</sup></strong></div>
    </a>
   </td>
   
