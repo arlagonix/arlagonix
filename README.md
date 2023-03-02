@@ -64,7 +64,7 @@
     
  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
  <tr>
-  <th align="left">UI Frameworks, libraries</th>
+  <th align="left">Frontend frameworks, libraries</th>
   <td>
    <a href="https://reactjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24"/>
