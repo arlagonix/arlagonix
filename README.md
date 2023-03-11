@@ -27,7 +27,7 @@
       <a href="https://t.me/ba_sa_materials">
         <img src="./assets/telegram.svg" width="24" height="24" />
         <strong><sup>Telegram</sup></strong>
-      </a>
+      </a> <sup>(devoted to business, system analysis)</sup>
     </td>
   </tr>
 
