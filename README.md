@@ -67,9 +67,9 @@
   </tr>
   <tr>
     <th></th>
-    <th>🥇 Much experience</th>
+    <th>🥇 More experience</th>
     <th>🥈 Some experience</th>
-    <th>🥉 Little experience</th>
+    <th>🥉 Less experience</th>
   </tr>
 
   <tr>
