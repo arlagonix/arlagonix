@@ -168,6 +168,11 @@
         <img src="./assets/postcss.svg" width="24" height="24" />
         <strong><sup>PostCSS</sup></strong>
       </a>  
+      <strong><sup>⸱</sup></strong>
+      <a href="https://postcss.org/">
+        <img src="./assets/css-modules.svg" width="24" height="24" />
+        <strong><sup>CSS Modules</sup></strong>
+      </a>
     </td>
   </tr>
 
