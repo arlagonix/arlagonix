@@ -186,11 +186,6 @@
         <img src="./assets/vitejs.svg" width="24" height="24" />
         <strong><sup>Vite</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
-      <a href="https://webpack.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="24" height="24" />
-        <strong><sup>Webpack</sup></strong>
-      </a>
     </td>
     <td>
       <a href="https://create-react-app.dev/">
@@ -203,6 +198,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
         <strong><sup>Create Next App</sup></strong>
       </a>  
+      <strong><sup>⸱</sup></strong>
+      <br>
+      <a href="https://webpack.js.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="24" height="24" />
+        <strong><sup>Webpack</sup></strong>
+      </a>
     </td>
     <td></td>
   </tr>
