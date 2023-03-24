@@ -374,6 +374,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="24" height="24" />
         <strong><sup>Eslint</sup></strong>
       </a>
+      <strong><sup>⸱</sup></strong>
+      <br>
+      <a href="https://github.com/dependabot">
+        <img src="./assets/dependabot.svg" width="24" height="24" />
+        <strong><sup>Dependabot</sup></strong>
+      </a>
     </td>
     <td>
       <a href="https://storybook.js.org/">
