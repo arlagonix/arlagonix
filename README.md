@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <th align="left">My projects (20+)</th>
+    <th align="left">My projects (25+)</th>
     <td>
       <a href="https://github.com/arlagonix/arlagonix.github.io">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
