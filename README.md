@@ -56,6 +56,12 @@
         <strong><sup>FrontendMentor Profile</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <a href="https://www.freecodecamp.org/Arlagonix">
+        <img src="./assets/freecodecamp.svg" width="24" height="24" />
+        <strong><sup>freeCodeCamp Profile</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://leetcode.com/arlagonix/">
         <img src="./assets/leetcode.svg" width="24" height="24" />
         <strong><sup>LeetCode Profile</sup></strong>
