@@ -19,17 +19,6 @@
       </a>
     </td>
   </tr>
-  
-  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
-  <tr>
-    <th align="left">Telegram channel</th>
-    <td>
-      <a href="https://t.me/ba_sa_materials">
-        <img src="./assets/telegram.svg" width="24" height="24" />
-        <strong><sup>Telegram</sup></strong>
-      </a> <sup>(devoted to business, system analysis)</sup>
-    </td>
-  </tr>
 
   <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
   <tr>
@@ -55,6 +44,22 @@
         <img src="./assets/united-kingdom.png" width="24" height="24" />
         <strong><sup>English</sup></strong>
       </span>
+    </td>
+  </tr>
+  
+  <tr><!-- Empty row that helps to make all rows in the table have the same bg color --></tr>
+  <tr>
+    <th align="left">Miscellaneous</th>
+    <td>
+      <a href="https://leetcode.com/arlagonix/">
+        <img src="./assets/leetcode.svg" width="24" height="24" />
+        <strong><sup>Leetcode Profile</sup></strong>
+      </a>
+      <strong><sup>⸱</sup></strong>
+      <a href="https://t.me/ba_sa_materials">
+        <img src="./assets/telegram.svg" width="24" height="24" />
+        <strong><sup>BA/SA Materials</sup></strong>
+      </a> <sup>(my tg channel)</sup>
     </td>
   </tr>
 </table>
