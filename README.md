@@ -53,7 +53,7 @@
     <td>
       <a href="https://leetcode.com/arlagonix/">
         <img src="./assets/leetcode.svg" width="24" height="24" />
-        <strong><sup>Leetcode Profile</sup></strong>
+        <strong><sup>LeetCode Profile</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
       <a href="https://t.me/ba_sa_materials">
