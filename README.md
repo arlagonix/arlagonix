@@ -61,7 +61,6 @@
         <strong><sup>freeCodeCamp Profile</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
-      <br>
       <a href="https://leetcode.com/arlagonix/">
         <img src="./assets/leetcode.svg" width="24" height="24" />
         <strong><sup>LeetCode Profile</sup></strong>
@@ -95,17 +94,16 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" />
         <strong><sup>HTML</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://www.w3schools.com/css/css_intro.asp">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" />
         <strong><sup>CSS</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
         <strong><sup>JavaScript</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
       <br>
       <a href="https://www.typescriptlang.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" />
@@ -118,12 +116,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />
         <strong><sup>Python</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://cplusplus.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
         <strong><sup>C++</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="./assets/c.svg" width="24" height="24" />
         <strong><sup>C</sup></strong>
@@ -161,12 +159,11 @@
         <img src="./assets/styled-components.jpg" width="24" height="24" />
         <strong><sup>styled-components</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://sass-lang.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="24" height="24" />
         <strong><sup>SASS/SCSS</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
       <br>
       <a href="https://en.bem.info/">
         <img src="./assets/bem.svg" width="24" height="24" />
@@ -184,7 +181,7 @@
         <img src="./assets/postcss.svg" width="24" height="24" />
         <strong><sup>PostCSS</sup></strong>
       </a>  
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://postcss.org/">
         <img src="./assets/css-modules.svg" width="24" height="24" />
         <strong><sup>CSS Modules</sup></strong>
@@ -208,13 +205,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
         <strong><sup>Create React App</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
       <br>
       <a href="https://nextjs.org/docs/api-reference/create-next-app">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
         <strong><sup>Create Next App</sup></strong>
       </a>  
-      <strong><sup>⸱</sup></strong>
       <br>
       <a href="https://webpack.js.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="24" height="24" />
@@ -235,7 +230,7 @@
         <img src="./assets/cypress.svg" width="24" height="24" />
         <strong><sup>Cypress</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://vitest.dev/">
         <img src="./assets/vitest.svg" width="24" height="24" />
         <strong><sup>Vitest</sup></strong>
@@ -301,7 +296,7 @@
         <img src="./assets/framer.svg" width="24" height="24" />
         <strong><sup>Framer Motion</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://animejs.com/">
         <img src="./assets/animejs.ico" width="24" height="24" />
         <strong><sup>AnimeJS</sup></strong>
@@ -339,12 +334,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" />
         <strong><sup>VS Code</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
         <strong><sup>Git</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://figma.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" />
         <strong><sup>Figma</sup></strong>
@@ -364,17 +359,16 @@
         <img src="./assets/prettier.svg" width="24" height="24" />
         <strong><sup>Prettier</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://www.atlassian.com/software/confluence">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="24" height="24" />
         <strong><sup>Confluence</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://www.atlassian.com/software/jira">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="24" height="24" />
         <strong><sup>Jira</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
       <br>
       <a href="https://www.npmjs.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" height="24" />
@@ -386,12 +380,11 @@
         <img src="./assets/react-router.svg" width="24" height="24" />
         <strong><sup>React Router</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
+      <br>
       <a href="https://eslint.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="24" height="24" />
         <strong><sup>Eslint</sup></strong>
       </a>
-      <strong><sup>⸱</sup></strong>
       <br>
       <a href="https://github.com/dependabot">
         <img src="./assets/dependabot.svg" width="24" height="24" />
