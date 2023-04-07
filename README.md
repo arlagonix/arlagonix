@@ -206,17 +206,17 @@
         <strong><sup>Create React App</sup></strong>
       </a>
       <br>
-      <a href="https://nextjs.org/docs/api-reference/create-next-app">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
-        <strong><sup>Create Next App</sup></strong>
-      </a>  
-      <br>
       <a href="https://webpack.js.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="24" height="24" />
         <strong><sup>Webpack</sup></strong>
       </a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://nextjs.org/docs/api-reference/create-next-app">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
+        <strong><sup>Create Next App</sup></strong>
+      </a> 
+    </td>
   </tr>
 
   <tr>
