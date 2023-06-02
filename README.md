@@ -153,7 +153,7 @@
     <!-- Empty row that helps to make all rows in the table have the same bg color -->
   </tr>
   <tr>
-    <th align="left">Styling</th>
+    <th align="left">Styling, component libraries</th>
     <td>
       <a href="https://styled-components.com/">
         <img src="./assets/styled-components.jpg" width="24" height="24" />
@@ -175,6 +175,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24" height="24" />
         <strong><sup>TailwindCSS</sup></strong>
       </a>  
+      <br>
+      <a href="https://postcss.org/">
+        <img src="./assets/css-modules.svg" width="24" height="24" />
+        <strong><sup>CSS Modules</sup></strong>
+      </a>
     </td>
     <td>
       <a href="https://postcss.org/">
@@ -183,9 +188,9 @@
       </a>  
       <br>
       <a href="https://postcss.org/">
-        <img src="./assets/css-modules.svg" width="24" height="24" />
-        <strong><sup>CSS Modules</sup></strong>
-      </a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="24" height="24" />
+        <strong><sup>Material UI</sup></strong>
+      </a> 
     </td>
   </tr>
 
