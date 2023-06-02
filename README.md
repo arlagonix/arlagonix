@@ -153,7 +153,7 @@
     <!-- Empty row that helps to make all rows in the table have the same bg color -->
   </tr>
   <tr>
-    <th align="left">Styling, component libraries</th>
+    <th align="left">Styling,<br>Component libraries</th>
     <td>
       <a href="https://styled-components.com/">
         <img src="./assets/styled-components.jpg" width="24" height="24" />
@@ -187,7 +187,7 @@
         <strong><sup>PostCSS</sup></strong>
       </a>  
       <br>
-      <a href="https://postcss.org/">
+      <a href="https://mui.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="24" height="24" />
         <strong><sup>Material UI</sup></strong>
       </a> 
@@ -285,6 +285,11 @@
       <a href="https://vercel.com/">
         <img src="./assets/vercel.svg" width="24" height="24" />
         <strong><sup>Vercel</sup></strong>
+      </a>
+      <br>
+      <a href="https://www.netlify.com/">
+        <img src="./assets/netlify.svg" width="24" height="24" />
+        <strong><sup>Netlify</sup></strong>
       </a>
     </td>
   </tr>
