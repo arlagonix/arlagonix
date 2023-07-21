@@ -191,6 +191,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="24" height="24" />
         <strong><sup>Material UI</sup></strong>
       </a> 
+      <br>
+      <a href="https://ant.design/">
+        <img src="./assets/ant-design.svg" width="24" height="24" />
+        <strong><sup>Ant Design</sup></strong>
+      </a> 
     </td>
   </tr>
 
