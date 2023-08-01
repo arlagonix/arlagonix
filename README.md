@@ -411,6 +411,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="24" height="24" />
         <strong><sup>Storybook</sup></strong>
       </a>
+      <br>
+      <a href="https://www.i18next.com/">
+        <img src="https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1143667985-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6Wm2hynS5H9Gj7j%252Favatar.png%3Fgeneration%3D1523462254548780%26alt%3Dmedia" width="24" height="24" />
+        <strong><sup>i18next</sup></strong>
+      </a>
     </td>
   </tr>
 </table>
