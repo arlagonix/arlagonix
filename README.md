@@ -135,15 +135,15 @@
   <tr>
     <th align="left">Frontend frameworks, <br>libraries</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
       <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
         <strong><sup>ReactJS</sup></strong>
       </a>
     </td>
     <td></td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
       <a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
         <strong><sup>NextJS</sup></strong>
       </a>   
     </td>
@@ -155,45 +155,45 @@
   <tr>
     <th align="left">Styling,<br>Component libraries</th>
     <td>
+      <img src="./assets/styled-components.jpg" width="24" height="24" />
       <a href="https://styled-components.com/">
-        <img src="./assets/styled-components.jpg" width="24" height="24" />
         <strong><sup>styled-components</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="24" height="24" />
       <a href="https://sass-lang.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="24" height="24" />
         <strong><sup>SASS/SCSS</sup></strong>
       </a>
       <br>
+      <img src="./assets/bem.svg" width="24" height="24" />
       <a href="https://en.bem.info/">
-        <img src="./assets/bem.svg" width="24" height="24" />
         <strong><sup>BEM</sup></strong>
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24" height="24" />
       <a href="https://tailwindcss.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24" height="24" />
         <strong><sup>TailwindCSS</sup></strong>
       </a>  
       <br>
+      <img src="./assets/css-modules.svg" width="24" height="24" />
       <a href="https://postcss.org/">
-        <img src="./assets/css-modules.svg" width="24" height="24" />
         <strong><sup>CSS Modules</sup></strong>
       </a>
     </td>
     <td>
+      <img src="./assets/postcss.svg" width="24" height="24" />
       <a href="https://postcss.org/">
-        <img src="./assets/postcss.svg" width="24" height="24" />
         <strong><sup>PostCSS</sup></strong>
       </a>  
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="24" height="24" />
       <a href="https://mui.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="24" height="24" />
         <strong><sup>Material UI</sup></strong>
       </a> 
       <br>
+      <img src="./assets/ant-design.svg" width="24" height="24" />
       <a href="https://ant.design/">
-        <img src="./assets/ant-design.svg" width="24" height="24" />
         <strong><sup>Ant Design</sup></strong>
       </a> 
     </td>
@@ -205,25 +205,25 @@
   <tr>
     <th align="left">Bundlers</th>
     <td>
+      <img src="./assets/vitejs.svg" width="24" height="24" />
       <a href="https://vitejs.dev/">
-        <img src="./assets/vitejs.svg" width="24" height="24" />
         <strong><sup>Vite</sup></strong>
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
       <a href="https://create-react-app.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
         <strong><sup>Create React App</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="24" height="24" />
       <a href="https://webpack.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="24" height="24" />
         <strong><sup>Webpack</sup></strong>
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
       <a href="https://nextjs.org/docs/api-reference/create-next-app">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
         <strong><sup>Create Next App</sup></strong>
       </a> 
     </td>
@@ -236,13 +236,13 @@
     <th align="left">Testing</th>
     <td></td>
     <td>
+      <img src="./assets/cypress.svg" width="24" height="24" />
       <a href="https://www.cypress.io/">
-        <img src="./assets/cypress.svg" width="24" height="24" />
         <strong><sup>Cypress</sup></strong>
       </a>
       <br>
+      <img src="./assets/vitest.svg" width="24" height="24" />
       <a href="https://vitest.dev/">
-        <img src="./assets/vitest.svg" width="24" height="24" />
         <strong><sup>Vitest</sup></strong>
       </a>
     </td>
@@ -256,14 +256,14 @@
     <th align="left">API requests, <br>state management</th>
     <td></td>
     <td>
+      <img src="./assets/react-query.svg" width="24" height="24" />
       <a href="https://react-query-v3.tanstack.com/">
-        <img src="./assets/react-query.svg" width="24" height="24" />
         <strong><sup>React Query</sup></strong>
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="24" height="24" />
       <a href="https://redux-toolkit.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="24" height="24" />
         <strong><sup>Redux Toolkit</sup></strong>
       </a>
     </td>
@@ -275,25 +275,25 @@
   <tr>
     <th align="left">Hosting, Infrastructure</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
       <a href="https://pages.github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
         <strong><sup>Github Pages</sup></strong>
       </a>
     </td>
     <td>
+      <img src="./assets/github-actions.svg" width="24" height="24" />
       <a href="https://github.com/features/actions">
-        <img src="./assets/github-actions.svg" width="24" height="24" />
         <strong><sup>Github Actions</sup></strong>
       </a>
     </td>
     <td>
+      <img src="./assets/vercel.svg" width="24" height="24" />
       <a href="https://vercel.com/">
-        <img src="./assets/vercel.svg" width="24" height="24" />
         <strong><sup>Vercel</sup></strong>
       </a>
       <br>
+      <img src="./assets/netlify.svg" width="24" height="24" />
       <a href="https://www.netlify.com/">
-        <img src="./assets/netlify.svg" width="24" height="24" />
         <strong><sup>Netlify</sup></strong>
       </a>
     </td>
@@ -307,13 +307,13 @@
     <td></td>
     <td></td>
     <td>
+      <img src="./assets/framer.svg" width="24" height="24" />
       <a href="https://www.framer.com/motion/introduction/">
-        <img src="./assets/framer.svg" width="24" height="24" />
         <strong><sup>Framer Motion</sup></strong>
       </a>
       <br>
+      <img src="./assets/animejs.ico" width="24" height="24" />
       <a href="https://animejs.com/">
-        <img src="./assets/animejs.ico" width="24" height="24" />
         <strong><sup>AnimeJS</sup></strong>
       </a>
     </td>
@@ -325,14 +325,14 @@
   <tr>
     <th align="left">Code repositories</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
       <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
         <strong><sup>Github</sup></strong>
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" height="24" />
       <a href="https://about.gitlab.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" height="24" />
         <strong><sup>Gitlab</sup></strong>
       </a>
     </td>
@@ -345,18 +345,18 @@
   <tr>
     <th align="left">Instruments</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" />
       <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" height="24" />
         <strong><sup>VS Code</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
       <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" />
         <strong><sup>Git</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" />
       <a href="https://figma.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" />
         <strong><sup>Figma</sup></strong>
       </a>
     </td>
@@ -370,50 +370,50 @@
   <tr>
     <th align="left">Miscellaneous</th>
     <td>
+      <img src="./assets/prettier.svg" width="24" height="24" />
       <a href="https://prettier.io/">
-        <img src="./assets/prettier.svg" width="24" height="24" />
         <strong><sup>Prettier</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="24" height="24" />
       <a href="https://www.atlassian.com/software/confluence">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="24" height="24" />
         <strong><sup>Confluence</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="24" height="24" />
       <a href="https://www.atlassian.com/software/jira">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="24" height="24" />
         <strong><sup>Jira</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" height="24" />
       <a href="https://www.npmjs.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="24" height="24" />
         <strong><sup>NPM</sup></strong>
       </a>
     </td>
     <td>
+      <img src="./assets/react-router.svg" width="24" height="24" />
       <a href="https://reactrouter.com/en/main">
-        <img src="./assets/react-router.svg" width="24" height="24" />
         <strong><sup>React Router</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="24" height="24" />
       <a href="https://eslint.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="24" height="24" />
         <strong><sup>Eslint</sup></strong>
       </a>
       <br>
+      <img src="./assets/dependabot.svg" width="24" height="24" />
       <a href="https://github.com/dependabot">
-        <img src="./assets/dependabot.svg" width="24" height="24" />
         <strong><sup>Dependabot</sup></strong>
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="24" height="24" />
       <a href="https://storybook.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="24" height="24" />
         <strong><sup>Storybook</sup></strong>
       </a>
       <br>
+      <img src="https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1143667985-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6Wm2hynS5H9Gj7j%252Favatar.png%3Fgeneration%3D1523462254548780%26alt%3Dmedia" width="24" height="24" />
       <a href="https://www.i18next.com/">
-        <img src="https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1143667985-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6Wm2hynS5H9Gj7j%252Favatar.png%3Fgeneration%3D1523462254548780%26alt%3Dmedia" width="24" height="24" />
         <strong><sup>i18next</sup></strong>
       </a>
     </td>
