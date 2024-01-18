@@ -13,8 +13,8 @@
   <tr>
     <th align="left">My projects (25+)</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
       <a href="https://github.com/arlagonix/arlagonix.github.io">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" />
         <strong><sup>Github</sup></strong>
       </a>
     </td>
@@ -24,8 +24,8 @@
   <tr>
     <th align="left">How to reach me</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" />
       <a href="https://www.linkedin.com/in/alex-gorbunov/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" />
         <strong><sup>LinkedIn</sup></strong>
       </a>
     </td>
@@ -51,23 +51,23 @@
   <tr>
     <th align="left">Miscellaneous</th>
     <td>
+      <img src="./assets/frontend-mentor.svg" width="24" height="24" />
       <a href="https://www.frontendmentor.io/profile/arlagonix">
-        <img src="./assets/frontend-mentor.svg" width="24" height="24" />
         <strong><sup>FrontendMentor Profile</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <img src="./assets/freecodecamp.svg" width="24" height="24" />
       <a href="https://www.freecodecamp.org/Arlagonix">
-        <img src="./assets/freecodecamp.svg" width="24" height="24" />
         <strong><sup>freeCodeCamp Profile</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <img src="./assets/leetcode.svg" width="24" height="24" />
       <a href="https://leetcode.com/arlagonix/">
-        <img src="./assets/leetcode.svg" width="24" height="24" />
         <strong><sup>LeetCode Profile</sup></strong>
       </a>
       <strong><sup>⸱</sup></strong>
+      <img src="./assets/telegram.svg" width="24" height="24" />
       <a href="https://t.me/ba_sa_materials">
-        <img src="./assets/telegram.svg" width="24" height="24" />
         <strong><sup>BA/SA Materials</sup></strong>
       </a> <sup>(my tg channel)</sup>
     </td>
@@ -90,40 +90,40 @@
   <tr>
     <th align="left">Fundamentals</th>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" />
       <a href="https://www.w3schools.com/html/default.asp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" />
         <strong><sup>HTML</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" />
       <a href="https://www.w3schools.com/css/css_intro.asp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" />
         <strong><sup>CSS</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
       <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
         <strong><sup>JavaScript</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" />
       <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" height="24" />
         <strong><sup>TypeScript</sup></strong>
       </a>
     </td>
     <td></td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />
       <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" />
         <strong><sup>Python</sup></strong>
       </a>
       <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
       <a href="https://cplusplus.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
         <strong><sup>C++</sup></strong>
       </a>
       <br>
+      <img src="./assets/c.svg" width="24" height="24" />
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="./assets/c.svg" width="24" height="24" />
         <strong><sup>C</sup></strong>
       </a>
     </td>
