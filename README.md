@@ -140,12 +140,13 @@
         <strong><sup>ReactJS</sup></strong>
       </a>
     </td>
-    <td></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
       <a href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs">
         <strong><sup>NextJS</sup></strong>
-      </a>   
+      </a>
+    </td>
+    <td>
     </td>
   </tr>
 
@@ -211,6 +212,11 @@
       </a>
     </td>
     <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
+      <a href="https://nextjs.org/docs/api-reference/create-next-app">
+        <strong><sup>Create Next App</sup></strong>
+      </a> 
+      <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" />
       <a href="https://create-react-app.dev/">
         <strong><sup>Create React App</sup></strong>
@@ -222,10 +228,6 @@
       </a>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />
-      <a href="https://nextjs.org/docs/api-reference/create-next-app">
-        <strong><sup>Create Next App</sup></strong>
-      </a> 
     </td>
   </tr>
 
