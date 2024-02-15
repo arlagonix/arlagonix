@@ -171,7 +171,7 @@
       </a>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="24" height="24" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24" />
       <a href="https://tailwindcss.com/">
         <strong><sup>TailwindCSS</sup></strong>
       </a>  
