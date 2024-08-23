@@ -156,6 +156,11 @@
   <tr>
     <th align="left">Styling,<br>Component libraries</th>
     <td>
+      <img src="./assets/css-modules.svg" width="24" height="24" />
+      <a href="https://postcss.org/">
+        <strong><sup>CSS Modules</sup></strong>
+      </a>
+      <br>
       <img src="./assets/styled-components.jpg" width="24" height="24" />
       <a href="https://styled-components.com/">
         <strong><sup>styled-components</sup></strong>
@@ -165,29 +170,33 @@
       <a href="https://sass-lang.com/">
         <strong><sup>SASS/SCSS</sup></strong>
       </a>
-      <br>
-      <img src="./assets/bem.svg" width="24" height="24" />
-      <a href="https://en.bem.info/">
-        <strong><sup>BEM</sup></strong>
-      </a>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24" />
       <a href="https://tailwindcss.com/">
         <strong><sup>TailwindCSS</sup></strong>
       </a>  
-      <br>
-      <img src="./assets/css-modules.svg" width="24" height="24" />
-      <a href="https://postcss.org/">
-        <strong><sup>CSS Modules</sup></strong>
-      </a>
     </td>
     <td>
       <img src="./assets/postcss.svg" width="24" height="24" />
       <a href="https://postcss.org/">
         <strong><sup>PostCSS</sup></strong>
-      </a>  
+      </a>
       <br>
+      <img src="./assets/bem.svg" width="24" height="24" />
+      <a href="https://en.bem.info/">
+        <strong><sup>BEM</sup></strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Empty row that helps to make all rows in the table have the same bg color -->
+  </tr>
+  <tr>
+    <th align="left">UI libraries</th>
+    <td></td>
+    <td></td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="24" height="24" />
       <a href="https://mui.com/">
         <strong><sup>Material UI</sup></strong>
@@ -196,7 +205,12 @@
       <img src="./assets/ant-design.svg" width="24" height="24" />
       <a href="https://ant.design/">
         <strong><sup>Ant Design</sup></strong>
-      </a> 
+      </a>
+      <br>
+      <img src="./assets/shadcnui.png" width="24" height="24" />
+      <a href="https://ui.shadcn.com/">
+        <strong><sup>shadcn/ui</sup></strong>
+      </a>
     </td>
   </tr>
 
@@ -331,13 +345,13 @@
       <a href="https://github.com/">
         <strong><sup>Github</sup></strong>
       </a>
-    </td>
-    <td>
+      <br />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="24" height="24" />
       <a href="https://about.gitlab.com/">
         <strong><sup>Gitlab</sup></strong>
       </a>
     </td>
+    <td></td>
     <td></td>
   </tr>
   
