@@ -283,7 +283,7 @@
         <strong><sup>Redux Toolkit</sup></strong>
       </a>
       <br />
-      <img src="./assets/zustand.png" width="48" height="24" />
+      <img src="./assets/zustand-logo.png" width="24" height="24" />
       <a href="https://github.com/pmndrs/zustand">
         <strong><sup>Zustand</sup></strong>
       </a>
