@@ -276,6 +276,11 @@
       <a href="https://react-query-v3.tanstack.com/">
         <strong><sup>React Query</sup></strong>
       </a>
+      <br />
+      <img src="./assets/zustand-logo.png" width="24" height="24" />
+      <a href="https://github.com/pmndrs/zustand">
+        <strong><sup>Zustand</sup></strong>
+      </a>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="24" height="24" />
@@ -283,9 +288,9 @@
         <strong><sup>Redux Toolkit</sup></strong>
       </a>
       <br />
-      <img src="./assets/zustand-logo.png" width="24" height="24" />
-      <a href="https://github.com/pmndrs/zustand">
-        <strong><sup>Zustand</sup></strong>
+      <img src="./assets/mobx.png" width="24" height="24" />
+      <a href="https://mobx.js.org/">
+        <strong><sup>Mobx</sup></strong>
       </a>
     </td>
   </tr>
